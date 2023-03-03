@@ -190,3 +190,19 @@ char* ft_itoa(int n){
 - [https://portfolio-part3-lenhack.netlify.app/] (https://portfolio-part3-lenhack.netlify.app/)
 
 ---
+
+## Courses:
+
+- RS Schools Course «JavaScript/Front-end. Stage 0»
+
+- Online University TOMMY "Тестувальник програмного
+  забезпечення (QC / QA)" [Online University TOMMY](https://www.tommyuniver.com)
+
+---
+
+## Languages:
+
+- English (in the range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE);
+- Russian (Native);
+- Ukrainian (Native);
+- Deutsch (B1)
