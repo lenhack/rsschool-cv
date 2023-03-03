@@ -39,3 +39,112 @@ I have dreamt of becoming a web developer for a long time. I started with learni
 - Adobe Photoshop, Corel DRAW
 
 ---
+
+## Code example:
+
+- **JavaScript**
+
+  _This function formats a duration, given as a number of seconds, in a human-friendly way._
+
+```JavaScript
+function formatDuration (seconds) {
+
+if(seconds === 0) return 'now'
+
+let deviderForYears = 60 * 60 * 24 * 365;
+let deviderForDays = 60 * 60 * 24;
+let deviderForHours = 60 * 60;
+let deviderForMinutes = 60;
+let remainder = 0;
+
+let yearsNumber = Math.floor(seconds / deviderForYears);
+remainder = seconds % deviderForYears;
+let daysNumber = Math.floor(remainder / deviderForDays);
+remainder = remainder % deviderForDays;
+let hoursNumber = Math.floor(remainder / deviderForHours);
+remainder = remainder % deviderForHours;
+let minutesNumber = Math.floor(remainder / deviderForMinutes);
+remainder = remainder % deviderForMinutes;
+let secondsNumber = remainder;
+
+let secondsAnswer = '';
+let minutesAnswer = '';
+let hoursAnswer = '';
+let daysAnswer = '';
+let yearsAnswer = '';
+
+if(secondsNumber === 1){
+    secondsAnswer = `${secondsNumber} second`;
+} else if(secondsNumber > 1){
+    secondsAnswer = `${secondsNumber} seconds`;
+}
+
+if(minutesNumber === 1){
+    minutesAnswer = `${minutesNumber} minute`;
+} else if(minutesNumber > 1){
+    minutesAnswer = `${minutesNumber} minutes`;
+}
+
+if(hoursNumber === 1){
+    hoursAnswer = `${hoursNumber} hour`;
+} else if(hoursNumber > 1){
+    hoursAnswer = `${hoursNumber} hours`;
+}
+
+if(daysNumber === 1){
+    daysAnswer = `${daysNumber} day`;
+} else if(daysNumber > 1){
+    daysAnswer = `${daysNumber} days`;
+}
+
+if(yearsNumber === 1){
+    yearsAnswer = `${yearsNumber} year`;
+} else if(yearsNumber > 1){
+    yearsAnswer = `${yearsNumber} years`;
+}
+
+const readableTime = [yearsAnswer, daysAnswer, hoursAnswer, minutesAnswer, secondsAnswer];
+const newReadableTime = [];
+
+for(let i = 0; i < readableTime.length; i++){
+    if(readableTime[i] != ''){
+        newReadableTime.push(readableTime[i])
+    }
+}
+return newReadableTime.join(', ').replace(/,[^,]+$/, ' and ' + newReadableTime[newReadableTime.length - 1]);
+}
+```
+
+- **C**
+
+  _This function converts the string argument str to an integer (int type) and returns it._
+
+```C
+char* ft_itoa(int n){
+    int t = n;
+    int len_num = 0;
+    while(t/=10){
+        len_num++;
+    }
+    len_num++;
+
+    char* str = (char*)malloc(len_num +1);
+    int i = 0;
+
+    if(n<0){
+        str[0] = '-';
+        n *= -1;
+        i++;
+    }
+
+    while(len_num >= i){
+        str[len_num] = (n%10) + '0';
+        n/=10;
+        len_num--;
+    }
+    str[ft_strlen(str)] = '\0';
+    return str;
+}
+```
+
+---
