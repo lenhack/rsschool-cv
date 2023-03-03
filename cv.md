@@ -4,7 +4,7 @@
 
 ---
 
-![Olena Koppalova](/rs-school/rsschool-cv/images/myPhoto.jpg)
+![Olena Koppalova](/images/myPhoto.jpg)
 
 ---
 
