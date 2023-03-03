@@ -181,13 +181,13 @@ char* ft_itoa(int n){
 
 ## Projects:
 
-- [https://tic-tac-toe-lenhack.netlify.app/] (https://tic-tac-toe-lenhack.netlify.app/)
+- [https://tic-tac-toe-lenhack.netlify.app/](https://tic-tac-toe-lenhack.netlify.app/)
 
-- [https://eco-sounds-lenhack.netlify.app/] (https://eco-sounds-lenhack.netlify.app/)
+- [https://eco-sounds-lenhack.netlify.app/](https://eco-sounds-lenhack.netlify.app/)
 
-- [https://image-gallery-lenhack.netlify.app/] (https://image-gallery-lenhack.netlify.app/)
+- [https://image-gallery-lenhack.netlify.app/](https://image-gallery-lenhack.netlify.app/)
 
-- [https://portfolio-part3-lenhack.netlify.app/] (https://portfolio-part3-lenhack.netlify.app/)
+- [https://portfolio-part3-lenhack.netlify.app/](https://portfolio-part3-lenhack.netlify.app/)
 
 ---
 
