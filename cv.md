@@ -173,7 +173,7 @@ char* ft_itoa(int n){
 
 ### ADVERTISING DESIGNER AT ADVERTISING AGENCY "LEGION"
 
-##### *October 2007 – November 2008*
+##### *OCTOBER 2007 – NOVEMBER 2008*
 
 + Designing of posters, large format advertisements, flyers, etc.
 
