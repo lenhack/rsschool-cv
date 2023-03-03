@@ -16,7 +16,7 @@
 
 **Telegram:** @YelenaDK
 
-[LinkedIn] (http://linkedin.com/in/елена-коппалова-8538a91b6)
+**LinkedIn** (http://linkedin.com/in/елена-коппалова-8538a91b6)
 
 ---
 
