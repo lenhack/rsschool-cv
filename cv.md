@@ -205,4 +205,4 @@ char* ft_itoa(int n){
 - English (in the range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE);
 - Russian (Native);
 - Ukrainian (Native);
-- Deutsch (B1)
+- German (B1)
