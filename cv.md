@@ -4,7 +4,7 @@
 
 ---
 
-![Olena Koppalova](.../images/myPhoto.jpg)
+![Olena Koppalova](/images/myPhoto.jpg)
 
 ---
 
