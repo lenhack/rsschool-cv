@@ -151,27 +151,27 @@ char* ft_itoa(int n){
 
 ## Experience:
 
-* ### FOUNDER AND LECTURER AT COMPUTER COMPETENCE CENTER “STREAM”
+### FOUNDER AND LECTURER AT COMPUTER COMPETENCE CENTER “STREAM”
 
 ##### *SEPTEMBER 2018 — JULY 2020*
 
 + Teaching the basics of working with computer programs
 + Teaching the basics of programming
 
-* ### IT ASSISTANT IN COMPUTER REPAIR SERVICE CENTER
+### IT ASSISTANT IN COMPUTER REPAIR SERVICE CENTER
 
 ##### *NOVEMBER 2011 — JUNE 2018*
 
 + Installing and configuring software
 + Repairing computers, laptops
 
-* ### PARENTAL LEAVE AND A PART-TIME JOB AS A CONTENT MANAGER AT THE INTERNET PROVIDER “X-NET”
+### PARENTAL LEAVE AND A PART-TIME JOB AS A CONTENT MANAGER AT THE INTERNET PROVIDER “X-NET”
 
 ##### *NOVEMBER 2008 – NOVEMBER 2011*
 
 + Populating the content of the ISP's website
 
-* ### Advertising designer at advertising agency "Legion"
+### ADVERTISING DESIGNER AT ADVERTISING AGENCY "LEGION"
 
 ##### *October 2007 – November 2008*
 
